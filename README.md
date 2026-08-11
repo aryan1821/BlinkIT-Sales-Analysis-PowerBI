@@ -2,15 +2,15 @@
 
 ## 📊 Dashboard Overview
 
-An interactive Power BI dashboard created to analyze BlinkIT grocery sales data and generate meaningful business insights across products, outlets, sales, ratings, and locations.
+An interactive **Power BI dashboard** created to analyze BlinkIT grocery sales data and generate meaningful business insights across products, outlets, sales, ratings, and locations.
 
-![BlinkIT Sales Dashboard](assets/BlinkIT-Dashboard-Overview.png)
+![BlinkIT Sales Dashboard](Images/BlinkIT Sales Dashboard.png)
 
 ---
 
 ## 🎯 Project Overview
 
-This project focuses on analyzing grocery sales data using Microsoft Power BI to understand overall sales performance, product category performance, outlet performance, customer ratings, and sales distribution across different locations.
+This project focuses on analyzing grocery sales data using **Microsoft Power BI** to understand overall sales performance, product category performance, outlet performance, customer ratings, and sales distribution across different locations.
 
 The dashboard provides an interactive and visually driven view of key business metrics and helps identify important sales patterns and trends.
 
@@ -84,28 +84,8 @@ Users can apply filters to dynamically analyze sales and performance across diff
 BlinkIT-Sales-Analysis-PowerBI/
 │
 ├── README.md
-│
 ├── Blinkit Dashboard.pbix
-│
 ├── BlinkIT Grocery Data.xlsx
+├── BlinkIT Sales Dashboard.png
 │
-└── assets/
-    └── BlinkIT-Dashboard-Overview.png
-
-## 🧠 Skills Demonstrated
-
-**Power BI • Data Analysis • Data Visualization • Business Intelligence • DAX • Power Query • Excel • KPI Reporting • Sales Analytics • Dashboard Development**
-
----
-
-## 👤 Author
-
-### Aryan Gupta
-
-**Data Analytics | Power BI | Excel | Business Intelligence | Python**
-
-Building data-driven dashboards and analytical solutions to convert raw data into actionable business insights.
-
----
-
-⭐ **If you found this project useful, consider giving the repository a Star.**
+└── Images/
