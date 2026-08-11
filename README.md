@@ -311,7 +311,7 @@ My interests include:
 
 ## 🌐 Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/aryan-gupta-261a33392/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/aryangupta-data)
 * 📸 [Instagram](https://www.instagram.com/______aryan07______/)
 
 ---
