@@ -8,7 +8,7 @@ The project transforms raw grocery sales data into an interactive business intel
 
 ## 📊 Dashboard Preview
 
-![BlinkIT Sales Dashboard](Images/BlinkIT-Dashboard-Overview.png)
+![BlinkIT Sales Dashboard](BlinkIT-Dashboard-Overview.png)
 
 ---
 
