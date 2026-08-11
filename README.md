@@ -279,13 +279,40 @@ The dashboard uses Power BI calculations and analytical measures for generating 
 
 ## 📁 Project Structure
 
-The repository is organized as follows:
+| File / Folder | Description |
+|---|---|
+| `Images/` | Folder containing dashboard screenshots and project images |
+| `BlinkIT Grocery Data.xlsx` | Source Excel grocery sales dataset |
+| `BlinkIT Sales Dashboard.png` | Main dashboard preview image |
+| `Blinkit Dashboard.pbix` | Power BI dashboard and data model |
+| `README.md` | Project documentation |
 
-```text
-BlinkIT-PowerBI-Dashboard/
-│
-├── 📁 Images/
-├── 📊 BlinkIT Grocery Data.xlsx
-├── 📈 BlinkIT Sales Dashboard.png
-├── 📊 Blinkit Dashboard.pbix
-└── 📄 README.md
+---
+
+## 👨‍💻 About Me
+
+### Aryan Gupta
+**Data Analyst | Business Intelligence | Front-End Developer**
+
+I am passionate about using **data, technology, and visualization** to solve business problems and create meaningful digital solutions. 
+
+My interests include:
+* Data Analytics
+* Business Intelligence
+* Power BI
+* Python
+* SQL
+* Excel
+* Front-End Development
+* UI/UX
+* Digital Design
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/aryan-gupta-261a33392/)
+* 📸 [Instagram](https://www.instagram.com/______aryan07______/)
+
+---
+⭐ If you find this project useful, consider giving the repository a star!
